@@ -1,9 +1,9 @@
 # How to test
 
 Simply use "bash test_libasm.sh". 
-Please note that this project has been designed to work on Mac OS (10.14.6).
+Please note that this project has been designed to work on Ubuntu 18.04.4
 
-# Useful ressources to learn assembly
+# Some useful ressources to learn assembly
 
 https://www.conradk.com/codebase/2017/06/06/x86-64-assembly-from-scratch/
 https://0xax.github.io/

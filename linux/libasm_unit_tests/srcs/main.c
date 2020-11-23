@@ -6,7 +6,7 @@
 /*   By: vlugand- <vlugand-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/19 17:36:27 by vlugand-          #+#    #+#             */
-/*   Updated: 2020/11/20 17:02:56 by vlugand-         ###   ########.fr       */
+/*   Updated: 2020/11/23 15:39:39 by vlugand-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,7 +28,7 @@ void	run_tests(char **av, char *s1, char *s2, char *s3)
 		test_ft_strdup("", s3);
 	else
 	{
-		test_ft_strlen(s1, s2);
+		test_ft_strlen("", s2);
 		test_ft_strcpy("", s1);
 		test_ft_strcmp("", s1, s2);
 		test_ft_write(s2);
