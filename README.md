@@ -6,7 +6,7 @@ I made a [tester](https://github.com/valentinllpz/Libasm_Unit_Tests) to help oth
 
 ## 🧭 Usage
 
-Clone the repository and access it with `cd`. From there, use the following command :
+Clone the repository and access the linux or mac_os version with `cd`. From there, use the following command :
 ```
 make
 ```
